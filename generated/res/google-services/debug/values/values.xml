@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="default_web_client_id" translatable="false">967522006015-5gs38urq1v72gus1tc9iqejce5h638l0.apps.googleusercontent.com</string>
+    <string name="firebase_database_url" translatable="false">https://hackathon-e400b.firebaseio.com</string>
+    <string name="gcm_defaultSenderId" translatable="false">967522006015</string>
+    <string name="google_api_key" translatable="false">AIzaSyA4OFsu4TTdvo9ww2dsyj4fkCKP5Szcbgg</string>
+    <string name="google_app_id" translatable="false">1:967522006015:android:dc6282740e5877d9722dca</string>
+    <string name="google_crash_reporting_api_key" translatable="false">AIzaSyA4OFsu4TTdvo9ww2dsyj4fkCKP5Szcbgg</string>
+    <string name="google_storage_bucket" translatable="false">hackathon-e400b.appspot.com</string>
+    <string name="project_id" translatable="false">hackathon-e400b</string>
+</resources>
