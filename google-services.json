@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "967522006015",
+    "firebase_url": "https://hackathon-e400b.firebaseio.com",
+    "project_id": "hackathon-e400b",
+    "storage_bucket": "hackathon-e400b.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:967522006015:android:dc6282740e5877d9722dca",
+        "android_client_info": {
+          "package_name": "com.example.connectfirebase"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "967522006015-1221hi2q9ro8eqb4gf9pmcunm9bnafqh.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.connectfirebase",
+            "certificate_hash": "7dbabae9424da0c3f7580a783a74c31ed1205db8"
+          }
+        },
+        {
+          "client_id": "967522006015-5gs38urq1v72gus1tc9iqejce5h638l0.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA4OFsu4TTdvo9ww2dsyj4fkCKP5Szcbgg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "967522006015-5gs38urq1v72gus1tc9iqejce5h638l0.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
